@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 26 Jun 2022 00:04:08 +0800
+Source: hello
+Architecture: source
+Version: 2.10-2ubuntu9
+Distribution: focal
+Urgency: medium
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Shu Hao Zhang <npc567@gmail.com>
+Changes:
+ hello (2.10-2ubuntu9) focal; urgency=medium
+ .
+   * add testing.sh
+Checksums-Sha1:
+ 0744c661f218c8a9ff59bdf65a488863346f0d9c 1660 hello_2.10-2ubuntu9.dsc
+ ae04305730822033d5ad3fe96c50c68278f75410 6828 hello_2.10-2ubuntu9.debian.tar.xz
+ 7ee977d55dedbcf135956980046a59ebc5d7ac17 6368 hello_2.10-2ubuntu9_source.buildinfo
+Checksums-Sha256:
+ 9991ca03539950c1864750483c3783cc192ce623b6cd06068245a27b162ccf9a 1660 hello_2.10-2ubuntu9.dsc
+ e45f932b7f06bd22c5827895e2152bed943bfc92035dfc790236b10e9ef68abf 6828 hello_2.10-2ubuntu9.debian.tar.xz
+ e9a0560c9427d5e81ea8bf251742e95e8b2b8b72ebff4c2352d046e5ec05eb53 6368 hello_2.10-2ubuntu9_source.buildinfo
+Files:
+ 12b4d6f07fa6c52e9641d7c4904a436d 1660 devel optional hello_2.10-2ubuntu9.dsc
+ f1b9b00b7596296141feba408f4eff5d 6828 devel optional hello_2.10-2ubuntu9.debian.tar.xz
+ 7acdedeab723c833eddf56325e29ebc5 6368 devel optional hello_2.10-2ubuntu9_source.buildinfo
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQHFBAEBCgAvFiEEXvX/VyftP1/Z1DZecl3X93ja8cQFAmK4Ce4RHG5wYzU2N0Bn
+bWFpbC5jb20ACgkQcl3X93ja8cQDmAwAlgCRjrapJoc89VHjQ9SKMfdDTox5bZIS
+tGn/Db+krvyaV+XO1tEpO6TlWNK8bdttao1uJhmDCW7uwyqvl0kCGoFdHtdVNiqP
+kkAN+L2nnIIjJZsEsq6HVIk/XoqtS0Ns7leJ9+wIWzEjLBVhKz1Y5eFWmbo+fZzN
+NlrLS+e7cJwMRilYbO1Ln0iDaVgZ+QRYy6vs2xHx5JQg0Hdsy8TO3sgSFDGeylfW
+/SZIBM1eKssqVEuo3JnXFZiZZH/uQF24tO6P8nun2Kfs+Xl3DxKbD3t/bjJeSblI
+G6UVki7wgLegJpNdYUIub9+ud58w8cTTibWWbHvg9ns17SDetnfqF5DSVGxPWPaF
+SkthCOQZISjzePPsqIAbqI2RxQ627rV+WSSDQNGsZ4unnEp78ANB/yBu1z95Q/e8
+bxW6moVN27oo8CUey0aX0O9NnPKVnAdAr/g2u9cK2H982kvg4M1Ogn4ggTL71ebM
+KPS5BUIHg7sEiuBZa1VMCTncux7ZncTH
+=is4p
+-----END PGP SIGNATURE-----

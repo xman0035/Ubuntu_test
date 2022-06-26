@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Sun, 26 Jun 2022 00:04:08 +0800
+Source: hello
+Binary: hello
+Architecture: source amd64
+Version: 2.10-2ubuntu9
+Distribution: focal
+Urgency: medium
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Shu Hao Zhang <npc567@gmail.com>
+Description:
+ hello      - example package based on GNU hello
+Changes:
+ hello (2.10-2ubuntu9) focal; urgency=medium
+ .
+   * add testing.sh
+Checksums-Sha1:
+ 90df19b5904750e5668b7f97bab7186eac867a7c 927 hello_2.10-2ubuntu9.dsc
+ ae04305730822033d5ad3fe96c50c68278f75410 6828 hello_2.10-2ubuntu9.debian.tar.xz
+ da6244ca32f25301e912545061cd6066535adb0d 35396 hello-dbgsym_2.10-2ubuntu9_amd64.ddeb
+ 6ec783f90046eae5a053d3fd4c7b99626d084570 6139 hello_2.10-2ubuntu9_amd64.buildinfo
+ c27bcf1461ee6b31831ed3e9b5f02731d80bccbc 52280 hello_2.10-2ubuntu9_amd64.deb
+Checksums-Sha256:
+ 8af374f3f0d26fa19b712b2870db68eace3d408815756006877ee5f52c908894 927 hello_2.10-2ubuntu9.dsc
+ e45f932b7f06bd22c5827895e2152bed943bfc92035dfc790236b10e9ef68abf 6828 hello_2.10-2ubuntu9.debian.tar.xz
+ 46dc3798390f7a06619a20c94e0915e581274cb8b8665156b8c8c8f5279c97a5 35396 hello-dbgsym_2.10-2ubuntu9_amd64.ddeb
+ 62da32c73587e5bb0b84aea808563619845cb212094230dfeac249d8a8c8615c 6139 hello_2.10-2ubuntu9_amd64.buildinfo
+ 16d2ae148b96dc12b69f9bf5cd2dd6cefee2a5d03db6e8271a92afa261778558 52280 hello_2.10-2ubuntu9_amd64.deb
+Files:
+ c1469fc95481cf59d455ae6447d0e290 927 devel optional hello_2.10-2ubuntu9.dsc
+ f1b9b00b7596296141feba408f4eff5d 6828 devel optional hello_2.10-2ubuntu9.debian.tar.xz
+ 43418a37ed2dd2102f445f6e2737f8f2 35396 debug optional hello-dbgsym_2.10-2ubuntu9_amd64.ddeb
+ bab86602100029572c9ddabc8e1a8c65 6139 devel optional hello_2.10-2ubuntu9_amd64.buildinfo
+ 63afe551e95c04d3174df077828d7e4e 52280 devel optional hello_2.10-2ubuntu9_amd64.deb
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
